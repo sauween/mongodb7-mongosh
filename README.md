@@ -1,4 +1,5 @@
 AlmaLinux 9.x 安装mongo 7.x 的一个bug
+
 https://www.mongodb.com/community/forums/t/openssl-error-when-starting-mongosh/243323/3
 
 dnf remove mongodb-mongosh
